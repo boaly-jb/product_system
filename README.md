@@ -10,7 +10,7 @@ The page also includes a category-based filtering system that allows users to qu
 
 This system helps maintain a structured product catalog, improves product management, and allows users to explore products efficiently.
 
-Key Features:
+# Key Features:
 
 Add new products with details (name, price, image, category)
 
